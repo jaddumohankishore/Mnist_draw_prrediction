@@ -12,12 +12,12 @@ GUI: Draw digits on a 280x280 canvas and predict instantly
 Training: Uses precomputed augmentation for faster training
 ## GUI Screenshot
 
-![](images/guiss.jpg)
+![](images/guiss.png)
 
 
 ## 🎬 Demo
-![](images/demo1ss.jpg)
-![](images/demo2ss.jpg)
+![](images/demo1ss.png)
+![](images/demo2ss.png)
 
 ## 🚀 Features
 **1) 🧠 CNN Model**
